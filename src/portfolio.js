@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Kong Ji Yu Portfolio",
     type: "website",
-    url: "http://your-domain.com/", // <-- You can replace with your actual portfolio URL
+    url: "https://kongjiyu.github.io", // <-- You can replace with your actual portfolio URL
   },
 };
 
@@ -26,7 +26,7 @@ const greeting = {
     "Focused on delivering innovative digital solutions, combining technology and strategy to support business growth and long-term success.",
   resumeLink:
     "https://drive.google.com/file/d/16TjrWCBkxEVe7au2_TyEUId6Lzz-4BkN/view?usp=sharing",
-  portfolio_repository: "https://github.com/kongjiyu/masterPortfolio",
+  portfolio_repository: "https://github.com/kongjiyu/master-portfolio",
   githubProfile: "https://github.com/kongjiyu",
 };
 
@@ -313,27 +313,27 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
+    // {
+    //   id: "neuro-symbolic-sudoku-solver",
+    //   name: "Neuro-Symbolic Sudoku Solver",
+    //   createdAt: "2023-07-02T00:00:00Z",
+    //   description: "Paper published in KDD KiML 2023",
+    //   url: "https://arxiv.org/abs/2307.00653",
+    // },
+    // {
+    //   id: "mdp-diffusion",
+    //   name: "MDP-Diffusion",
+    //   createdAt: "2023-09-19T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/mdp-diffusion/",
+    // },
+    // {
+    //   id: "consistency-models",
+    //   name: "Consistency Models",
+    //   createdAt: "2023-10-12T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/consistency-models/",
+    // },
   ],
 };
 
