@@ -1,25 +1,105 @@
-<h1 align="center">Hi 👋, I'm Kong Ji Yu</h1>
-<h3 align="center">A Student from Malaysia</h3>
+<h1 align="center">Kong Ji Yu Portfolio 🚀</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kongjiyu&label=Profile%20views&color=0e75b6&style=flat" alt="kongjiyu" /> </p>
+<h3 align="center">A clean, modern, fully customized personal portfolio built using React</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kongjiyu" alt="kongjiyu" /></a> </p>
-
-- 🔭 I’m currently studying at **Tunku Abdul Rahman University of Management and Technology (TARUMT)**
-- 🌱 I’m currently learning **React**
-- 📫 How to reach me **kongjiyu0198@gmail.com**
-- ⚡ Fun fact **I'm cosplayer!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kongjiyu0198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kongjiyu0198" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://kongjiyu.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-kongjiyu.github.io-blue?style=flat-square" /></a>
+  <a href="https://github.com/kongjiyu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-kongjiyu-blue?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/ji-yu-kong-249516279"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongjiyu&show_icons=true&locale=en&layout=compact" alt="kongjiyu" /></p>
+## About 🔎
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kongjiyu&show_icons=true&locale=en" alt="kongjiyu" /></p>
+This is my personal portfolio website where I showcase my work, projects, and experience as a **Full Stack Developer**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kongjiyu&" alt="kongjiyu" /></p>
+Besides my personal projects, I am also the **Founder of K&E Tech Innovations**, where we focus on delivering customized website development solutions for businesses.
+
+> Example Projects (Company Portfolio):
+>
+> - [MTA Tile Adhesive](https://mtatileadhesive.com)
+
+---
+
+## Technologies Used 🛠
+
+- React.js
+- GraphQL
+- Apollo Client
+- styled-components
+- react-reveal
+- baseui
+- GitHub Pages Deployment
+
+---
+
+## Sections 📂
+
+- ✅ About Me
+- ✅ Skills
+- ✅ Projects
+- ✅ Experience
+- ✅ Education
+- ✅ Contact
+
+---
+
+## Installation & Usage 📦
+
+This portfolio is based on the `masterPortfolio` template, fully customized for my own use.
+
+### 1️⃣ Clone this repository
+
+```bash
+git clone https://github.com/kongjiyu/portfolio.git
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Start development server
+
+```bash
+npm start
+```
+
+### 4️⃣ Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## Deployment 🚀
+
+This portfolio is deployed publicly on:
+
+👉 **[https://kongjiyu.github.io](https://kongjiyu.github.io)**
+
+Deployment is done via GitHub Pages directly using `npm run build` and pushing the build to the repository.
+
+---
+
+## Contact 📩
+
+- GitHub: [kongjiyu](https://github.com/kongjiyu)
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/ji-yu-kong-249516279)
+- Email: kongjiyu0198@email.com
+- Website: [kongjiyu.github.io](https://kongjiyu.github.io)
+
+---
+
+## License 📄
+
+This project is licensed under the MIT License.
+
+---
+
+## Credits 🙏
+
+- This portfolio is originally based on [masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) open-source template, with full customization and modifications for my own personal use.

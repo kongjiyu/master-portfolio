@@ -1,3 +1,88 @@
 {
-  "data": []
+  "data": [
+    {
+      "id": "R_kgDOKR3EEA",
+      "name": "Academic-Performance-Management-System-APMS-",
+      "createdAt": "2023-09-11T00:52:47Z",
+      "url": "https://github.com/kongjiyu/Academic-Performance-Management-System-APMS-",
+      "description": null,
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOMWT9Bg",
+      "name": "InventoryManagementSystem",
+      "createdAt": "2024-07-15T00:00:51Z",
+      "url": "https://github.com/kongjiyu/InventoryManagementSystem",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLjmvIA",
+      "name": "PCD2_Assignment",
+      "createdAt": "2024-03-21T15:07:51Z",
+      "url": "https://github.com/kongjiyu/PCD2_Assignment",
+      "description": null,
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOOCTLJg",
+      "name": "samseng-webstore",
+      "createdAt": "2025-03-03T09:53:26Z",
+      "url": "https://github.com/kongjiyu/samseng-webstore",
+      "description": "Web Application for the (Un)Official Samseng Webstore. Java Web College Assignment.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKR3X6Q",
+      "name": "WDD_Assignment",
+      "createdAt": "2023-09-11T01:18:32Z",
+      "url": "https://github.com/kongjiyu/WDD_Assignment",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
 }

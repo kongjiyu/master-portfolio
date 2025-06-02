@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -341,31 +341,32 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "profile.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, CRM, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+    // title: "Blogs",
+    // subtitle:
+    //   "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
+    // link: "https://blogs.ashutoshhathidara.com/",
+    // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle:
+      "19, Jalan Kampung Wira Jaya, Taman Melati, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    locality: "Kuala Lumpur",
+    country: "Malaysia",
+    region: "Wilayah Persekutuan Kuala Lumpur",
+    postalCode: "53300",
+    streetAddress: "19, Jalan Kampung Wira Jaya, Taman Melati",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/nCcHkTXUZ4aDs1HN8",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Contact No.",
+    subtitle: "+60 10-240 7930",
   },
 };
 
