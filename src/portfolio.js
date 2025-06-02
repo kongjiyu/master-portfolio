@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Kong Ji Yu Portfolio",
     type: "website",
-    url: "https://kongjiyu.github.io", // <-- You can replace with your actual portfolio URL
+    url: "https://kongjiyu.github.io/", // <-- You can replace with your actual portfolio URL
   },
 };
 
